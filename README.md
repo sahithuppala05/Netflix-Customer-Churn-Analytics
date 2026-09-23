@@ -109,7 +109,7 @@ The pipeline covers the full ML lifecycle in one file:
 
 ```bash
 # Clone the repository (or download and unzip)
-git clone <your-repo-url>
+git clone https://github.com/sahithuppala05/Netflix-Customer-Churn-Analytics
 cd Netflix_Dataset
 ```
 
